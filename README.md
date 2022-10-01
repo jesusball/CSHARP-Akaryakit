@@ -1,3 +1,3 @@
 ## Açıklama
 
-Projeden bin ve obj klasörleri silinmiştir kendi açtığınız projenize Program.cs dosyasındaki kodları yapıştırmanız yeterlidir.
+Projeden bin ve obj klasörleri silinmiştir kendi açtığınız projenize <strong>Program.cs</strong> dosyasındaki kodları yapıştırmanız yeterlidir.
